@@ -34,7 +34,7 @@ You received an email from BANCO DO BRADESCO LIVELO claiming that your card has 
 ## 1. Obtain a sample phishing email(many free samples online)
 
 **Find publicly available examples on trusted cybersecurity blogs or security awareness sites.**
-- 📨 [Download Email Sample (.eml)](https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)  
+- 📨 [Download Email Sample (.eml)](https://github.com/RICHA15-creator/Task_2/blob/main/sample.eml)  
   
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/a73ba6ce-6103-422e-841b-b75cef441179" />
