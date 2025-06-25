@@ -18,7 +18,7 @@ In Online free tools
 
 ## 🛠️ **Lab Setup**
 
-- 📨 [Download Email Sample (.eml)] (https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)
+- 📨 [Download Email Sample (.eml)] (https://github.com/RICHA15-creator/Task-2-Sample/blob/main/sample.eml)
 - 💻 Tools Recommended:
   - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
   - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
